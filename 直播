@@ -182,8 +182,8 @@ CGTN阿拉伯语HD,http://10.0.0.1:7088/udp/239.76.253.97:9000
 高尔夫网球HD,http://10.0.0.1:7088/udp/239.76.254.62:9000
 
 pixman,#genre#
-dlg800 tvb,http://10.0.0.1:8000/mytvsuper.m3u
+dlg800 tvb,http://10.0.0.1:8000/mytvsuper.txt
 4gtv,http://10.0.0.1:8000/4gtv.m3u
 
 itv,#genre#
-itv,http://10.0.0.1:50001/Sub?type=m3u
+itv,http://10.0.0.1:50001/Sub?type=txt
