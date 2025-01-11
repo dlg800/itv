@@ -182,7 +182,9 @@ CGTN阿拉伯语HD,http://10.0.0.1:7088/udp/239.76.253.97:9000
 高尔夫网球HD,http://10.0.0.1:7088/udp/239.76.254.62:9000
 
 ysptp代码版,#genre#
-
+CCTV-4K,http://10.0.0.1:16384/ysptp/cctv4k.m3u8
+CCTV-8K,http://10.0.0.1:16384/ysptp/cctv8k_36m.m3u8
+CCTV-16_4K,http://10.0.0.1:16384/ysptp/cctv16_4k.m3u8
 CCTV-1,http://10.0.0.1:16384/ysptp/cctv1.m3u8
 CCTV-2,http://10.0.0.1:16384/ysptp/cctv2.m3u8
 CCTV-3,http://10.0.0.1:16384/ysptp/cctv3.m3u8
@@ -207,7 +209,4 @@ CGTN-阿拉伯语,http://10.0.0.1:16384/ysptp/cgtnar.m3u8
 CGTN-西班牙语,http://10.0.0.1:16384/ysptp/cgtnes.m3u8
 CGTN-Documentary,http://10.0.0.1:16384/ysptp/cgtndoc.m3u8
 
-CCTV-16_4K,http://10.0.0.1:16384/ysptp/cctv16_4k.m3u8
-CCTV-4K,http://10.0.0.1:16384/ysptp/cctv4k.m3u8
 
-CCTV-8K,http://10.0.0.1:16384/ysptp/cctv8k_36m.m3u8
