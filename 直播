@@ -210,4 +210,4 @@ CGTN-西班牙语,http://10.0.0.1:16384/ysptp/cgtnes.m3u8
 CGTN-Documentary,http://10.0.0.1:16384/ysptp/cgtndoc.m3u8
 
 肥羊35455,#genre#
-http://10.0.0.1:35455/tv.m3u
+http://10.0.0.1:6789/tptv.php?p=gitv&id=G_CCTV-2-HD-265-8M.m3u8
