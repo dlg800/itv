@@ -183,7 +183,7 @@ CGTN阿拉伯语HD,http://10.0.0.1:7088/udp/239.76.253.97:9000
 央视台球HD,http://10.0.0.1:7088/udp/239.76.254.58:9000
 高尔夫网球HD,http://10.0.0.1:7088/udp/239.76.254.62:9000
 
-cctv,#genre#
+cctv php,#genre#
 CCTV1高清, http://10.0.0.1:6789/cctv.php?id=CCTV1HD
 CCTV2高清, http://10.0.0.1:6789/cctv.php?id=CCTV2HD
 CCTV3高清, http://10.0.0.1:6789/cctv.php?id=CCTV3_HD
