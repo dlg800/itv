@@ -1,6 +1,8 @@
 #EXTM3U
-#EXTINF:-1 ,翡翠4k
-https://php.946985.filegear-sg.me/mytv265.php?id=JUHD
+#EXTINF:-1 ,cctv1
+http://ott.mobaibox.com/PLTV/3/224/3221227467/index.m3u8
+#EXTINF:-1 ,cctv1
+http://ott.mobaibox.com/PLTV/3/224/3221228149/index.m3u8
 #EXTINF:-1 ,CCTV-1HD
 http://10.0.0.1:7088/udp/239.76.253.151:9000
 #EXTINF:-1 ,CCTV-2HD
