@@ -1,12 +1,12 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="d0b53f671be04b3fad12fae4f5f2d69b" tvg-name="CCTV1高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202502/24/20250224085045376.jpg" group-title="高清;全部",CCTV1高清
-http://124.232.231.172:8089/000000002000/201500000063/index.m3u8?20251115T073000&endtime=20251115T0830002
+http://124.232.231.172:8089/000000002000/201500000063/index.m3u8?starttime=20251115T073000&endtime=20251115T0830002
 
 #EXTINF:-1 tvg-id="42f0cf6816b94a11aed026633eee6df8" tvg-name="湖南卫视4K" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725183517033.jpg" group-title="全部;超高清",湖南卫视4K
-http://124.232.231.172:8089/000000002000/201500000219/index.m3u8?starttime=&zte_offset=0&ispcode=2
+http://124.232.231.172:8089/000000002000/201500000219/index.m3u8?starttime=&zte_offset=0&ispcode=3
 
 #EXTINF:-1 tvg-id="65e48b2e8e6a4f73824fbbb44762e4c6" tvg-name="湖南卫视高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="全部;卫视;省内;高清",湖南卫视高清
-http://124.232.231.172:8089/000000002000/201500000233/index.m3u8?starttime=&zte_offset=0&ispcode=2
+http://124.232.231.172:8089/000000002000/201500000233/index.m3u8?starttime=&ispcode=3
 
 #EXTINF:-1 tvg-id="05070e2072ad41a082bd55434c49d502" tvg-name="湖南经视高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190307659.jpg" group-title="省内;高清;全部",湖南经视高清
 http://124.232.231.172:8089/000000002000/201500000234/index.m3u8?starttime=&zte_offset=0&ispcode=2
