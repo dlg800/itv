@@ -1,63 +1,10 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="d0b53f671be04b3fad12fae4f5f2d69b" tvg-name="CCTV1高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202502/24/20250224085045376.jpg" group-title="高清;全部",CCTV1高清
+#EXTM3U x-tvg-url="http://10.255.0.110/mgtv_hndx/EPGV2/GetChannelList?OutputType=json&Version=YYS.4.5.19.266.2.HNDX.0.0_Release_HW_4K&CategoryId=1000&MediaAssetsId=live"
+
+#EXTINF:-1 tvg-id="d0b53f671be04b3fad12fae4f5f2d69b" tvg-name="CCTV1高清" tvg-logo="" group-title="央视" tvg-chno="1" catchup="default" catchup-source="http://124.232.231.172:8089/000000002000/201500000063/index.m3u8?starttime={utc}&endtime={utcend}&zte_offset=0&ispcode=2" catchup-days="7" tvg-shift="2.5",CCTV1高清
 http://124.232.231.172:8089/000000002000/201500000063/index.m3u8?starttime=&zte_offset=0&ispcode=2
 
-#EXTINF:-1 tvg-id="42f0cf6816b94a11aed026633eee6df8" tvg-name="湖南卫视4K" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725183517033.jpg" group-title="全部;超高清",湖南卫视4K
-http://124.232.231.172:8089/000000002000/201500000219/index.m3u8?starttime=&zte_offset=0&ispcode=2
-#EXTINF:-1 tvg-id="65e48b2e8e6a4f73824fbbb44762e4c6" tvg-name="湖南卫视高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725183537628.jpg" group-title="全部;卫视;省内;高清",湖南卫视高清
-http://124.232.231.172:8089/000000002000/201500000233/index.m3u8?starttime=&zte_offset=0&ispcode=2
-#EXTINF:-1 tvg-id="05070e2072ad41a082bd55434c49d502" tvg-name="湖南经视高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190307659.jpg" group-title="省内;高清;全部",湖南经视高清
-http://124.232.231.172:8089/000000002000/201500000234/index.m3u8?starttime=&zte_offset=0&ispcode=2
+#EXTINF:-1 tvg-id="0c21bcb5a2fe4eacadd91dc22d91ae69" tvg-name="四川卫视4K" tvg-logo="" group-title="卫视" tvg-chno="485",四川卫视4K
+http://124.232.231.172:8089/000000002000/201500000672/index.m3u8?starttime=&zte_offset=0&ispcode=2
 
-#EXTINF:-1 tvg-id="9c837578b37949c99489b0b1ded6ba14" tvg-name="湖南都市高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190355486.jpg" group-title="全部;省内;高清",湖南都市高清
-http://124.232.231.172:8089/000000002000/201500000235/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="89389bd64a50481280fd174d38696654" tvg-name="湖南电视剧高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190230668.jpg" group-title="全部;省内;高清",湖南电视剧高清
-http://124.232.231.172:8089/000000002000/201500000236/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="761905a1e2af45abab240c3015c5789d" tvg-name="湖南电影高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190745427.jpg" group-title="全部;省内;高清",湖南电影高清
-http://124.232.231.172:8089/000000002000/201500000237/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="bec6b46cfd5640fdb6bded19244103df" tvg-name="湖南爱晚高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202502/24/20250224144444516.jpg" group-title="高清;省内;全部",湖南爱晚高清
-http://124.232.231.172:8089/000000002000/201500000241/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="8439bbc9db8349c4a9984ced8d50aca4" tvg-name="湖南娱乐高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725183925365.jpg" group-title="省内;高清;全部",湖南娱乐高清
-http://124.232.231.172:8089/000000002000/201500000239/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="93756506da3c4fbabdb0f759ca014efd" tvg-name="金鹰纪实高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725191422126.jpg" group-title="全部;省内;高清",金鹰纪实高清
-http://124.232.231.172:8089/000000002000/201500000240/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="fe8b1b14517843c6b83c613c11d6f241" tvg-name="金鹰卡通高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725191319311.jpg" group-title="高清;省内;全部",金鹰卡通高清
-http://124.232.231.172:8089/000000002000/201500000238/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="e0514d07ae3c40309406f219cec5cbeb" tvg-name="湖南国际高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725190803257.jpg" group-title="高清;全部;省内",湖南国际高清
-http://124.232.231.172:8089/000000002000/201500000153/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="dcf9b82910e14e0f8d88df8de4182fa4" tvg-name="快乐购高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/26/20220726085615668.jpg" group-title="高清;省内;全部",快乐购高清
-http://124.232.231.172:8089/000000002000/201500000243/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="f5bcc590f4e44a43b4bf9a4b50c7e7c4" tvg-name="湖南教育高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725184411594.jpg" group-title="高清;省内;全部",湖南教育高清
-http://124.232.231.172:8089/000000002000/201500000377/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="38a054cdc1f14dc1ab62034647044ac0" tvg-name="嘉丽购高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/26/20220726090504473.jpg" group-title="高清;全部;省内",嘉丽购高清
-http://124.232.231.172:8089/000000002000/201500000140/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="dcc4307e371c44e98d1424e57ffdf06b" tvg-name="优购物高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202311/06/20231106142649293.png" group-title="高清;全部",优购物高清
-http://124.232.231.172:8089/000000002000/201500000564/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="53b7f08aa1744854929565a6748ecc84" tvg-name="茶频道高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/28/20220728182516805.jpg" group-title="全部;高清",茶频道高清
-http://124.232.231.172:8089/000000002000/201500000383/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="190e459ac218496a8529dd1e2e2c76bb" tvg-name="CCTV1高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725172041741.jpg" group-title="高清;全部;央视",CCTV1高清
-http://124.232.231.172:8089/000000002000/201500000063/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="af12d75e7d044b0f926d225135e746de" tvg-name="CCTV2高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725172738452.jpg" group-title="高清;全部;央视",CCTV2高清
-http://124.232.231.172:8089/000000002000/201500000129/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="471583af70a746fb9d0c7c95328a7372" tvg-name="CCTV3高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725172803660.jpg" group-title="高清;央视;全部",CCTV3高清
-http://124.232.231.172:8089/000000002000/201500000124/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="70db6dbeaf6e452680ed62f437d6b587" tvg-name="CCTV4高清" tvg-logo="http://10.255.9.207/nn_img/zypt/upstream/cms/resources/upload/202207/25/20220725172832446.jpg" group-title="全部;高清;央视",CCTV4高清
-http://124.232.231.172:8089/000000002000/201500000204/index.m3u8?starttime=&zte_offset=0&ispcode=2
-
-#EXTINF:-1 tvg-id="eff0ad
+#EXTINF:-1 tvg-id="ad7f243965154572bae34e1ab20c128e" tvg-name="山东卫视4K" tvg-logo="" group-title="卫视" tvg-chno="484",山东卫视4K
+http://124.232.231.172:8089/000000002000/201500000670/index.m3u8?starttime=&zte_offset=0&ispcode=2
