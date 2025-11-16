@@ -49,10 +49,10 @@ http://10.0.0.1:15555/hndx.php?id=201500000577&/PLTV/$ZTE
 http://10.0.0.1:7088/rtp/239.76.254.66:9000
 #EXTINF:-1 tvg-?id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.404003.xyz/LOGO/CCTV8K.png" group-title="4K超高清",CCTV8K 超高清
 http://10.0.0.1:7088/rtp/239.76.254.199:9000
-#EXTINF:-1 tvg-?id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视频道",CCTV1 综合
+#EXTINF:-1 tvg-?id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.404003.xyz/LOGO/CCTV1.png" group-title="央视频道",CCTV1综合
 http://10.0.0.1:15555/hndx.php?id=201500000063&/PLTV/$ZTE
 http://10.0.0.1:7088/rtp/239.76.253.151:9000
-#EXTINF:-1 tvg-?id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png" group-title="央视频道",CCTV2 财经
+#EXTINF:-1 tvg-?id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.404003.xyz/LOGO/CCTV2.png" group-title="央视频道",CCTV2 
 http://10.0.0.1:15555/hndx.php?id=201500000129&/PLTV/$ZTE
 http://10.0.0.1:7088/rtp/239.76.253.152:9000
 #EXTINF:-1 tvg-?id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.404003.xyz/LOGO/CCTV3.png" group-title="央视频道",CCTV3 综艺
