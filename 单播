@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://e.erw.cc/all.xml.gz" catchup="append" catchup-source="playseek=${(b)yyyyMMddHHmmss}-${(e)yyyyMMddHHmmss}"
+
 #EXTINF:-1 tvg-?id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://live.404003.xyz/LOGO/湖南卫视4K.png" group-title="4K超高清",湖南卫视4K
 http://10.0.0.1:15555/hndx.php?id=201500000219&/PLTV/$ZTE
 http://10.0.0.1:7088/rtp/239.76.253.62:9000
