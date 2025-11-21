@@ -19,6 +19,7 @@ http://10.0.0.1:15555/hndx.php?id=201500000666&/PLTV/$ZTE
 http://10.0.0.1:7088/rtp/239.76.254.220:9000
 http://10.0.0.1:7088/rtp/239.76.254.222:9000
 #EXTINF:-1 tvg-?id="东方卫视" tvg-name="东方卫视" tvg-logo="https://live.404003.xyz/LOGO/东方卫视4K.png" group-title="4K超高清",东方卫视4K
+http://10.0.0.1:15555/hndx.php?id=201500000668&/PLTV/$ZTE
 http://10.0.0.1:7088/rtp/239.76.254.224:9000
 http://10.0.0.1:7088/rtp/239.76.254.226:9000
 #EXTINF:-1 tvg-?id="广东卫视" tvg-name="广东卫视" tvg-logo="https://live.404003.xyz/LOGO/广东卫视4K.png" group-title="4K超高清",广东卫视4K
