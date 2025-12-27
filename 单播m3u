@@ -1,0 +1,393 @@
+#EXTM3U
+#EXTINF:-1 ,湖南卫视4K
+http://10.0.0.1:15555/hndx.php?id=201500000219&/PLTV/$ZTE
+#EXTINF:-1 ,北京卫视4K
+http://10.0.0.1:15555/hndx.php?id=201500000638&/PLTV/$ZTE
+#EXTINF:-1 ,江苏卫视4K
+http://10.0.0.1:15555/hndx.php?id=201500000664&/PLTV/$ZTE
+#EXTINF:-1 ,浙江卫视4K
+http://10.0.0.1:15555/hndx.php?id=201500000666&/PLTV/$ZTE
+#EXTINF:-1 ,东方卫视4K
+http://10.0.0.1:7088/rtp/239.76.254.224:9000
+#EXTINF:-1 ,广东卫视4K
+http://10.0.0.1:15555/hndx.php?id=201500000658&/PLTV/$ZTE
+#EXTINF:-1 ,深圳卫视4K
+http://10.0.0.1:15555/hndx.php?id=201500000656&/PLTV/$ZTE
+#EXTINF:-1 ,山东卫视4K
+http://10.0.0.1:15555/hndx.php?id=201500000670&/PLTV/$ZTE
+#EXTINF:-1 ,四川卫视4K
+http://10.0.0.1:15555/hndx.php?id=201500000672&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV4K 超高清
+http://10.0.0.1:7088/rtp/239.76.254.101:9000
+#EXTINF:-1 ,CCTV16 奥林匹克4K
+http://10.0.0.1:15555/hndx.php?id=201500000508&/PLTV/$ZTE
+#EXTINF:-1 ,欢笑剧场4K
+http://10.0.0.1:15555/hndx.php?id=201500000577&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV8K 超高清
+http://10.0.0.1:7088/rtp/239.76.254.199:9000
+#EXTINF:-1 ,CCTV1 综合
+http://10.0.0.1:15555/hndx.php?id=201500000063&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV2 财经
+http://10.0.0.1:15555/hndx.php?id=201500000129&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV3 综艺
+http://10.0.0.1:15555/hndx.php?id=201500000124&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV4 中文国际
+http://10.0.0.1:15555/hndx.php?id=201500000204&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV4 中文国际欧洲
+http://10.0.0.1:15555/hndx.php?id=201500000494&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV4 中文国际美洲
+http://10.0.0.1:15555/hndx.php?id=201500000495&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV5 体育
+http://10.0.0.1:15555/hndx.php?id=201500000548&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV5+ 体育赛事
+http://10.0.0.1:15555/hndx.php?id=201500000549&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV6 电影
+http://10.0.0.1:15555/hndx.php?id=201500000126&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV7 国防军事
+http://10.0.0.1:15555/hndx.php?id=201500000130&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV8 电视剧
+http://10.0.0.1:15555/hndx.php?id=201500000127&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV9 纪录
+http://10.0.0.1:15555/hndx.php?id=201500000131&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV10 科教
+http://10.0.0.1:15555/hndx.php?id=201500000132&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV11 戏曲
+http://10.0.0.1:15555/hndx.php?id=201500000389&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV12 社会与法
+http://10.0.0.1:15555/hndx.php?id=201500000133&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV13 新闻
+http://10.0.0.1:15555/hndx.php?id=201500000460&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV14 少儿
+http://10.0.0.1:15555/hndx.php?id=201500000134&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV15 音乐
+http://10.0.0.1:15555/hndx.php?id=201500000390&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV16 奥林匹克
+http://10.0.0.1:15555/hndx.php?id=201500000501&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV16 奥林匹克4K
+http://10.0.0.1:7088/rtp/239.76.253.230:9000
+#EXTINF:-1 ,CCTV17 农业农村
+http://10.0.0.1:15555/hndx.php?id=201500000382&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV4K 超高清
+http://10.0.0.1:7088/rtp/239.76.254.101:9000
+#EXTINF:-1 ,CCTV8K 超高清
+http://10.0.0.1:7088/rtp/239.76.254.199:9000
+#EXTINF:-1 ,第一剧场
+http://10.0.0.1:15555/hndx.php?id=201500000517&/PLTV/$ZTE
+#EXTINF:-1 ,风云足球
+http://10.0.0.1:15555/hndx.php?id=201500000520&/PLTV/$ZTE
+#EXTINF:-1 ,风云音乐
+http://10.0.0.1:15555/hndx.php?id=201500000519&/PLTV/$ZTE
+#EXTINF:-1 ,风云剧场
+http://10.0.0.1:15555/hndx.php?id=201500000518&/PLTV/$ZTE
+#EXTINF:-1 ,女性时尚
+http://10.0.0.1:15555/hndx.php?id=201500000522&/PLTV/$ZTE
+#EXTINF:-1 ,央视文化精品
+http://10.0.0.1:7088/rtp/239.76.254.56:9000
+#EXTINF:-1 ,世界地理
+http://10.0.0.1:15555/hndx.php?id=201500000524&/PLTV/$ZTE
+#EXTINF:-1 ,兵器科技
+http://10.0.0.1:15555/hndx.php?id=201500000526&/PLTV/$ZTE
+#EXTINF:-1 ,央视台球
+http://10.0.0.1:15555/hndx.php?id=201500000525&/PLTV/$ZTE
+#EXTINF:-1 ,怀旧剧场
+http://10.0.0.1:15555/hndx.php?id=201500000521&/PLTV/$ZTE
+#EXTINF:-1 ,高尔夫网球
+http://10.0.0.1:15555/hndx.php?id=201500000528&/PLTV/$ZTE
+#EXTINF:-1 ,电视指南
+http://10.0.0.1:15555/hndx.php?id=201500000527&/PLTV/$ZTE
+#EXTINF:-1 ,卫生健康
+http://10.0.0.1:7088/rtp/239.76.253.247:9000
+#EXTINF:-1 ,CGTN
+http://10.0.0.1:7088/rtp/239.76.252.66:9000
+#EXTINF:-1 ,CGTN纪录
+http://10.0.0.1:7088/rtp/239.76.252.67:9000
+#EXTINF:-1 ,CGTN阿语
+http://10.0.0.1:7088/rtp/239.76.253.97:9000
+#EXTINF:-1 ,CGTN西语
+http://10.0.0.1:7088/rtp/239.76.253.88:9000
+#EXTINF:-1 ,CGTN法语
+http://10.0.0.1:7088/rtp/239.76.253.87:9000
+#EXTINF:-1 ,CGTN俄语
+http://10.0.0.1:7088/rtp/239.76.253.86:9000
+#EXTINF:-1 ,CETV1
+http://10.0.0.1:7088/rtp/239.76.252.192:9000
+#EXTINF:-1 ,CETV2
+http://10.0.0.1:7088/rtp/239.76.252.253:9000
+#EXTINF:-1 ,CETV4
+http://10.0.0.1:7088/rtp/239.76.252.254:9000
+#EXTINF:-1 ,CETV早期教育
+http://10.0.0.1:7088/rtp/239.76.254.202:9000
+#EXTINF:-1 ,湖南卫视
+http://10.0.0.1:15555/hndx.php?id=201500000233&/PLTV/$ZTE
+#EXTINF:-1 ,凤凰中文
+http://10.0.0.1:15555/hndx.php?id=201500000432&/PLTV/$ZTE
+#EXTINF:-1 ,凤凰资讯
+http://10.0.0.1:15555/hndx.php?id=201500000431&/PLTV/$ZTE
+#EXTINF:-1 ,江苏卫视
+http://10.0.0.1:15555/hndx.php?id=201500000070&/PLTV/$ZTE
+#EXTINF:-1 ,浙江卫视
+http://10.0.0.1:15555/hndx.php?id=201500000064&/PLTV/$ZTE
+#EXTINF:-1 ,东方卫视
+http://10.0.0.1:15555/hndx.php?id=201500000069&/PLTV/$ZTE
+#EXTINF:-1 ,北京卫视
+http://10.0.0.1:15555/hndx.php?id=201500000065&/PLTV/$ZTE
+#EXTINF:-1 ,天津卫视
+http://10.0.0.1:15555/hndx.php?id=201500000123&/PLTV/$ZTE
+#EXTINF:-1 ,东南卫视
+http://10.0.0.1:15555/hndx.php?id=201500000336&/PLTV/$ZTE
+#EXTINF:-1 ,安徽卫视
+http://10.0.0.1:15555/hndx.php?id=201500000345&/PLTV/$ZTE
+#EXTINF:-1 ,广东卫视
+http://10.0.0.1:15555/hndx.php?id=201500000335&/PLTV/$ZTE
+#EXTINF:-1 ,河南卫视
+http://10.0.0.1:15555/hndx.php?id=201500000476&/PLTV/$ZTE
+#EXTINF:-1 ,深圳卫视
+http://10.0.0.1:15555/hndx.php?id=201500000066&/PLTV/$ZTE
+#EXTINF:-1 ,湖北卫视
+http://10.0.0.1:15555/hndx.php?id=201500000159&/PLTV/$ZTE
+#EXTINF:-1 ,山东卫视
+http://10.0.0.1:15555/hndx.php?id=201500000071&/PLTV/$ZTE
+#EXTINF:-1 ,黑龙江卫视
+http://10.0.0.1:15555/hndx.php?id=201500000072&/PLTV/$ZTE
+#EXTINF:-1 ,吉林卫视
+http://10.0.0.1:15555/hndx.php?id=201500000475&/PLTV/$ZTE
+#EXTINF:-1 ,海南卫视
+http://10.0.0.1:15555/hndx.php?id=201500000477&/PLTV/$ZTE
+#EXTINF:-1 ,四川卫视
+http://10.0.0.1:15555/hndx.php?id=201500000458&/PLTV/$ZTE
+#EXTINF:-1 ,重庆卫视
+http://10.0.0.1:15555/hndx.php?id=201500000459&/PLTV/$ZTE
+#EXTINF:-1 ,广西卫视
+http://10.0.0.1:15555/hndx.php?id=201500000512&/PLTV/$ZTE
+#EXTINF:-1 ,陕西卫视
+http://10.0.0.1:15555/hndx.php?id=201500000514&/PLTV/$ZTE
+#EXTINF:-1 ,云南卫视
+http://10.0.0.1:15555/hndx.php?id=201500000513&/PLTV/$ZTE
+#EXTINF:-1 ,青海卫视
+http://10.0.0.1:15555/hndx.php?id=201500000516&/PLTV/$ZTE
+#EXTINF:-1 ,甘肃卫视
+http://10.0.0.1:15555/hndx.php?id=201500000461&/PLTV/$ZTE
+#EXTINF:-1 ,三沙卫视
+http://10.0.0.1:15555/hndx.php?id=201500000396&/PLTV/$ZTE
+#EXTINF:-1 ,辽宁卫视
+http://10.0.0.1:15555/hndx.php?id=201500000346&/PLTV/$ZTE
+#EXTINF:-1 ,河北卫视
+http://10.0.0.1:15555/hndx.php?id=201500000348&/PLTV/$ZTE
+#EXTINF:-1 ,贵州卫视
+http://10.0.0.1:15555/hndx.php?id=201500000347&/PLTV/$ZTE
+#EXTINF:-1 ,大湾区卫视
+http://10.0.0.1:7088/rtp/239.76.252.114:9000
+#EXTINF:-1 ,厦门卫视
+http://10.0.0.1:15555/hndx.php?id=201500000375&/PLTV/$ZTE
+#EXTINF:-1 ,兵团卫视
+http://10.0.0.1:15555/hndx.php?id=201500000376&/PLTV/$ZTE
+#EXTINF:-1 ,延边卫视
+http://10.0.0.1:15555/hndx.php?id=201500000554&/PLTV/$ZTE
+#EXTINF:-1 ,山西卫视
+http://10.0.0.1:15555/hndx.php?id=201500000111&/PLTV/$ZTE
+#EXTINF:-1 ,内蒙古卫视
+http://10.0.0.1:15555/hndx.php?id=201500000107&/PLTV/$ZTE
+#EXTINF:-1 ,宁夏卫视
+http://10.0.0.1:15555/hndx.php?id=201500000108&/PLTV/$ZTE
+#EXTINF:-1 ,新疆卫视
+http://10.0.0.1:15555/hndx.php?id=201500000116&/PLTV/$ZTE
+#EXTINF:-1 ,西藏卫视
+http://10.0.0.1:15555/hndx.php?id=201500000117&/PLTV/$ZTE
+#EXTINF:-1 ,康巴卫视
+http://10.0.0.1:7088/rtp/239.76.253.89:9000
+#EXTINF:-1 ,山东教育卫视
+http://10.0.0.1:7088/rtp/239.76.252.191:9000
+#EXTINF:-1 ,湖南导视
+http://10.0.0.1:7088/rtp/239.76.252.131:9000
+#EXTINF:-1 ,湖南卫视
+http://10.0.0.1:15555/hndx.php?id=201500000233&/PLTV/$ZTE
+#EXTINF:-1 ,湖南经视
+http://10.0.0.1:15555/hndx.php?id=201500000234&/PLTV/$ZTE
+#EXTINF:-1 ,湖南娱乐
+http://10.0.0.1:15555/hndx.php?id=201500000239&/PLTV/$ZTE
+#EXTINF:-1 ,湖南电影
+http://10.0.0.1:15555/hndx.php?id=201500000237&/PLTV/$ZTE
+#EXTINF:-1 ,湖南电视剧
+http://10.0.0.1:15555/hndx.php?id=201500000236&/PLTV/$ZTE
+#EXTINF:-1 ,湖南都市
+http://10.0.0.1:15555/hndx.php?id=201500000235&/PLTV/$ZTE
+#EXTINF:-1 ,湖南国际
+http://10.0.0.1:15555/hndx.php?id=201500000153&/PLTV/$ZTE
+#EXTINF:-1 ,湖南爱晚
+http://10.0.0.1:15555/hndx.php?id=201500000241&/PLTV/$ZTE
+#EXTINF:-1 ,金鹰卡通
+http://10.0.0.1:15555/hndx.php?id=201500000238&/PLTV/$ZTE
+#EXTINF:-1 ,湖南教育
+http://10.0.0.1:15555/hndx.php?id=201500000377&/PLTV/$ZTE
+#EXTINF:-1 ,长沙新闻
+http://10.0.0.1:7088/rtp/239.76.253.121:9000
+#EXTINF:-1 ,长沙政法
+http://10.0.0.1:15555/hndx.php?id=201500000229&/PLTV/$ZTE
+#EXTINF:-1 ,长沙文旅
+http://10.0.0.1:15555/hndx.php?id=201500000589&/PLTV/$ZTE
+#EXTINF:-1 ,宁乡综合
+http://10.0.0.1:15555/hndx.php?id=201500000511&/PLTV/$ZTE
+#EXTINF:-1 ,长沙县新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000566&/PLTV/$ZTE
+#EXTINF:-1 ,浏阳新闻
+http://10.0.0.1:15555/hndx.php?id=201500000334&/PLTV/$ZTE
+#EXTINF:-1 ,临澧新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000565&/PLTV/$ZTE
+#EXTINF:-1 ,冷水江新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000587&/PLTV/$ZTE
+#EXTINF:-1 ,娄底公共
+http://10.0.0.1:15555/hndx.php?id=201500000418&/PLTV/$ZTE
+#EXTINF:-1 ,娄底综合
+http://10.0.0.1:15555/hndx.php?id=201500000417&/PLTV/$ZTE
+#EXTINF:-1 ,安乡新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000569&/PLTV/$ZTE
+#EXTINF:-1 ,岳阳文旅都市
+http://10.0.0.1:15555/hndx.php?id=201500000571&/PLTV/$ZTE
+#EXTINF:-1 ,岳阳新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000570&/PLTV/$ZTE
+#EXTINF:-1 ,常德公共
+http://10.0.0.1:7088/rtp/239.76.255.11:9000
+#EXTINF:-1 ,常德新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000351&/PLTV/$ZTE
+#EXTINF:-1 ,张家界公共
+http://10.0.0.1:15555/hndx.php?id=201500000379&/PLTV/$ZTE
+#EXTINF:-1 ,张家界新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000378&/PLTV/$ZTE
+#EXTINF:-1 ,怀化新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000353&/PLTV/$ZTE
+#EXTINF:-1 ,新化综合
+http://10.0.0.1:15555/hndx.php?id=201500000562&/PLTV/$ZTE
+#EXTINF:-1 ,株洲新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000195&/PLTV/$ZTE
+#EXTINF:-1 ,桂东融媒
+http://10.0.0.1:15555/hndx.php?id=201500000529&/PLTV/$ZTE
+#EXTINF:-1 ,桃源综合
+http://10.0.0.1:15555/hndx.php?id=201500000572&/PLTV/$ZTE
+#EXTINF:-1 ,武冈综合
+http://10.0.0.1:15555/hndx.php?id=201500000557&/PLTV/$ZTE
+#EXTINF:-1 ,永州新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000491&/PLTV/$ZTE
+#EXTINF:-1 ,永州经济生活
+http://10.0.0.1:15555/hndx.php?id=201500000492&/PLTV/$ZTE
+#EXTINF:-1 ,洞口融媒综合
+http://10.0.0.1:15555/hndx.php?id=201500000003&/PLTV/$ZTE
+#EXTINF:-1 ,津市综合
+http://10.0.0.1:15555/hndx.php?id=201500000558&/PLTV/$ZTE
+#EXTINF:-1 ,湘乡新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000573&/PLTV/$ZTE
+#EXTINF:-1 ,湘潭县综合
+http://10.0.0.1:15555/hndx.php?id=201500000588&/PLTV/$ZTE
+#EXTINF:-1 ,湘潭新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000308&/PLTV/$ZTE
+#EXTINF:-1 ,湘西公共
+http://10.0.0.1:7088/rtp/239.76.252.210:9000
+#EXTINF:-1 ,湘西文化旅游
+http://10.0.0.1:15555/hndx.php?id=201500000556&/PLTV/$ZTE
+#EXTINF:-1 ,湘西新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000555&/PLTV/$ZTE
+#EXTINF:-1 ,溆浦综合
+http://10.0.0.1:15555/hndx.php?id=201500000530&/PLTV/$ZTE
+#EXTINF:-1 ,益阳公共
+http://10.0.0.1:15555/hndx.php?id=201500000413&/PLTV/$ZTE
+#EXTINF:-1 ,益阳新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000412&/PLTV/$ZTE
+#EXTINF:-1 ,茶陵综合
+http://10.0.0.1:15555/hndx.php?id=201500000547&/PLTV/$ZTE
+#EXTINF:-1 ,蓝山综合
+http://10.0.0.1:15555/hndx.php?id=201500000574&/PLTV/$ZTE
+#EXTINF:-1 ,衡阳县电视台
+http://10.0.0.1:15555/hndx.php?id=201500000531&/PLTV/$ZTE
+#EXTINF:-1 ,衡阳文旅法治
+http://10.0.0.1:15555/hndx.php?id=201500000416&/PLTV/$ZTE
+#EXTINF:-1 ,衡阳新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000415&/PLTV/$ZTE
+#EXTINF:-1 ,道县综合
+http://10.0.0.1:15555/hndx.php?id=201500000553&/PLTV/$ZTE
+#EXTINF:-1 ,邵阳文旅民生
+http://10.0.0.1:15555/hndx.php?id=201500000453&/PLTV/$ZTE
+#EXTINF:-1 ,邵阳新闻
+http://10.0.0.1:7088/rtp/239.76.255.21:9000
+#EXTINF:-1 ,邵阳新闻综合
+http://10.0.0.1:15555/hndx.php?id=201500000452&/PLTV/$ZTE
+#EXTINF:-1 ,郴州文旅
+http://10.0.0.1:15555/hndx.php?id=201500000576&/PLTV/$ZTE
+#EXTINF:-1 ,郴州综合
+http://10.0.0.1:15555/hndx.php?id=201500000397&/PLTV/$ZTE
+#EXTINF:-1 ,CHC动作电影
+http://10.0.0.1:15555/hndx.php?id=201500000386&/PLTV/$ZTE
+#EXTINF:-1 ,CHC影迷电影
+http://10.0.0.1:15555/hndx.php?id=201500000385&/PLTV/$ZTE
+#EXTINF:-1 ,CHC家庭影院
+http://10.0.0.1:15555/hndx.php?id=201500000384&/PLTV/$ZTE
+#EXTINF:-1 ,欢笑剧场4K
+http://10.0.0.1:15555/hndx.php?id=201500000577&/PLTV/$ZTE
+#EXTINF:-1 ,金鹰纪实
+http://10.0.0.1:15555/hndx.php?id=201500000240&/PLTV/$ZTE
+#EXTINF:-1 ,北京纪实科教
+http://10.0.0.1:15555/hndx.php?id=201500000575&/PLTV/$ZTE
+#EXTINF:-1 ,茶频道
+http://10.0.0.1:15555/hndx.php?id=201500000383&/PLTV/$ZTE
+#EXTINF:-1 ,先锋乒羽
+http://124.232.231.172:8089/PLTV/88888891/224/3221225528/10000100000000060000000000101095_0.smil$RTSP
+#EXTINF:-1 ,游戏风云
+http://10.0.0.1:15555/hndx.php?id=201500000582&/PLTV/$ZTE
+#EXTINF:-1 ,动漫秀场
+http://10.0.0.1:15555/hndx.php?id=201500000581&/PLTV/$ZTE
+#EXTINF:-1 ,都市剧场
+http://10.0.0.1:15555/hndx.php?id=201500000585&/PLTV/$ZTE
+#EXTINF:-1 ,乐游
+http://10.0.0.1:15555/hndx.php?id=201500000579&/PLTV/$ZTE
+#EXTINF:-1 ,金色学堂
+http://10.0.0.1:15555/hndx.php?id=201500000586&/PLTV/$ZTE
+#EXTINF:-1 ,法治天地
+http://10.0.0.1:15555/hndx.php?id=201500000578&/PLTV/$ZTE
+#EXTINF:-1 ,生活时尚
+http://10.0.0.1:15555/hndx.php?id=201500000584&/PLTV/$ZTE
+#EXTINF:-1 ,东方财经
+http://10.0.0.1:15555/hndx.php?id=201500000580&/PLTV/$ZTE
+#EXTINF:-1 ,中国交通
+http://10.0.0.1:15555/hndx.php?id=201500000603&/PLTV/$ZTE
+#EXTINF:-1 ,中国天气
+http://10.0.0.1:15555/hndx.php?id=201500000158&/PLTV/$ZTE
+#EXTINF:-1 ,快乐垂钓
+http://10.0.0.1:15555/hndx.php?id=201500000245&/PLTV/$ZTE
+#EXTINF:-1 ,河南梨园
+http://10.0.0.1:7088/rtp/239.76.252.179:9000
+#EXTINF:-1 ,文物宝库
+http://10.0.0.1:15555/hndx.php?id=201500000479&/PLTV/$ZTE
+#EXTINF:-1 ,武术世界
+http://10.0.0.1:15555/hndx.php?id=201500000480&/PLTV/$ZTE
+#EXTINF:-1 ,四海钓鱼
+http://124.232.231.172:8089PLTV/88888891/224/3221225578/10000100000000060000000000100752_0.smil$RTSP
+#EXTINF:-1 ,环球奇观
+http://10.0.0.1:15555/hndx.php?id=201500000560&/PLTV/$ZTE
+#EXTINF:-1 ,环球旅游
+http://10.0.0.1:15555/hndx.php?id=201500000484&/PLTV/$ZTE
+#EXTINF:-1 ,生态环境
+http://10.0.0.1:15555/hndx.php?id=201500000534&/PLTV/$ZTE
+#EXTINF:-1 ,财富天下
+http://10.0.0.1:15555/hndx.php?id=201500000091&/PLTV/$ZTE
+#EXTINF:-1 ,书画
+http://10.0.0.1:15555/hndx.php?id=201500000399&/PLTV/$ZTE
+#EXTINF:-1 ,国学
+http://10.0.0.1:15555/hndx.php?id=201500000486&/PLTV/$ZTE
+#EXTINF:-1 ,天元围棋
+http://124.232.231.172:8089/PLTV/88888891/224/3221225529/10000100000000060000000000101094_0.smil$RTSP
+#EXTINF:-1 ,收藏天下
+http://10.0.0.1:15555/hndx.php?id=201500000507&/PLTV/$ZTE
+#EXTINF:-1 ,金鹰卡通
+http://10.0.0.1:15555/hndx.php?id=201500000238&/PLTV/$ZTE
+#EXTINF:-1 ,CCTV14 少儿
+http://10.0.0.1:15555/hndx.php?id=201500000134&/PLTV/$ZTE
+#EXTINF:-1 ,动漫秀场
+http://10.0.0.1:15555/hndx.php?id=201500000581&/PLTV/$ZTE
+#EXTINF:-1 ,卡酷少儿
+http://10.0.0.1:15555/hndx.php?id=201500000515&/PLTV/$ZTE
+#EXTINF:-1 ,优漫卡通
+http://10.0.0.1:15555/hndx.php?id=201500000059&/PLTV/$ZTE
+#EXTINF:-1 ,嘉佳卡通
+http://10.0.0.1:15555/hndx.php?id=201500000374&/PLTV/$ZTE
+#EXTINF:-1 ,新动漫
+http://10.0.0.1:15555/hndx.php?id=201500000387&/PLTV/$ZTE
+#EXTINF:-1 ,优优宝贝
+http://10.0.0.1:15555/hndx.php?id=201500000119&/PLTV/$ZTE
