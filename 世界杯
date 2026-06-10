@@ -1,5 +1,11 @@
+#EXTM3U
+#EXTINF:-1 ,cctv5
 http://10.0.0.1:38766/cctv5.m3u8
+#EXTINF:-1 ,cctv16
 http://10.0.0.1:38766/cctv16.m3u8
+#EXTINF:-1 ,cctv16-4k
 http://10.0.0.1:38766/cctv164k.m3u8
+#EXTINF:-1 ,cctv4k
 http://10.0.0.1:38766/cctv4k.m3u8
+#EXTINF:-1 ,cctv8k
 http://10.0.0.1:38766/cctv8k.m3u8
