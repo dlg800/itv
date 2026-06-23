@@ -1,220 +1,147 @@
 #EXTM3U
-
-#EXTINF:-1 tvg-name="CCTV-1高清" tvg-logo="https://epg.112114.xyz/logo/cctv1.png" group-title="央视",CCTV-1高清
+#EXTINF:-1 ,CCTV-1高清
 http://10.0.0.1:15555/yspios.php?id=cctv1
-
-#EXTINF:-1 tvg-name="CCTV-2高清" tvg-logo="https://epg.112114.xyz/logo/cctv2.png" group-title="央视",CCTV-2高清
+#EXTINF:-1 ,CCTV-2高清
 http://10.0.0.1:15555/yspios.php?id=cctv2
-
-#EXTINF:-1 tvg-name="CCTV-3高清" tvg-logo="https://epg.112114.xyz/logo/cctv3.png" group-title="央视",CCTV-3高清
+#EXTINF:-1 ,CCTV-3高清
 http://10.0.0.1:15555/yspios.php?id=cctv3
-
-#EXTINF:-1 tvg-name="CCTV-4高清" tvg-logo="https://epg.112114.xyz/logo/cctv4.png" group-title="央视",CCTV-4高清
+#EXTINF:-1 ,CCTV-4高清
 http://10.0.0.1:15555/yspios.php?id=cctv4
-
-#EXTINF:-1 tvg-name="CCTV-5高清" tvg-logo="https://epg.112114.xyz/logo/cctv5.png" group-title="央视",CCTV-5高清
+#EXTINF:-1 ,CCTV-5高清
 http://10.0.0.1:15555/yspios.php?id=cctv5
-
-#EXTINF:-1 tvg-name="CCTV-5+高清" tvg-logo="https://epg.112114.xyz/logo/cctv5p.png" group-title="央视",CCTV-5+高清
+#EXTINF:-1 ,CCTV-5+高清
 http://10.0.0.1:15555/yspios.php?id=cctv5p
-
-#EXTINF:-1 tvg-name="CCTV-6高清" tvg-logo="https://epg.112114.xyz/logo/cctv6.png" group-title="央视",CCTV-6高清
+#EXTINF:-1 ,CCTV-6高清
 http://10.0.0.1:15555/yspios.php?id=cctv6
-
-#EXTINF:-1 tvg-name="CCTV-7高清" tvg-logo="https://epg.112114.xyz/logo/cctv7.png" group-title="央视",CCTV-7高清
+#EXTINF:-1 ,CCTV-7高清
 http://10.0.0.1:15555/yspios.php?id=cctv7
-
-#EXTINF:-1 tvg-name="CCTV-8高清" tvg-logo="https://epg.112114.xyz/logo/cctv8.png" group-title="央视",CCTV-8高清
+#EXTINF:-1 ,CCTV-8高清
 http://10.0.0.1:15555/yspios.php?id=cctv8
-
-#EXTINF:-1 tvg-name="CCTV-9高清" tvg-logo="https://epg.112114.xyz/logo/cctv9.png" group-title="央视",CCTV-9高清
+#EXTINF:-1 ,CCTV-9高清
 http://10.0.0.1:15555/yspios.php?id=cctv9
-
-#EXTINF:-1 tvg-name="CCTV-10高清" tvg-logo="https://epg.112114.xyz/logo/cctv10.png" group-title="央视",CCTV-10高清
+#EXTINF:-1 ,CCTV-10高清
 http://10.0.0.1:15555/yspios.php?id=cctv10
-
-#EXTINF:-1 tvg-name="CCTV-11高清" tvg-logo="https://epg.112114.xyz/logo/cctv11.png" group-title="央视",CCTV-11高清
+#EXTINF:-1 ,CCTV-11高清
 http://10.0.0.1:15555/yspios.php?id=cctv11
-
-#EXTINF:-1 tvg-name="CCTV-12高清" tvg-logo="https://epg.112114.xyz/logo/cctv12.png" group-title="央视",CCTV-12高清
+#EXTINF:-1 ,CCTV-12高清
 http://10.0.0.1:15555/yspios.php?id=cctv12
-
-#EXTINF:-1 tvg-name="CCTV-13高清" tvg-logo="https://epg.112114.xyz/logo/cctv13.png" group-title="央视",CCTV-13高清
+#EXTINF:-1 ,CCTV-13高清
 http://10.0.0.1:15555/yspios.php?id=cctv13
-
-#EXTINF:-1 tvg-name="CCTV-14高清" tvg-logo="https://epg.112114.xyz/logo/cctv14.png" group-title="央视",CCTV-14高清
+#EXTINF:-1 ,CCTV-14高清
 http://10.0.0.1:15555/yspios.php?id=cctv14
-
-#EXTINF:-1 tvg-name="CCTV-15高清" tvg-logo="https://epg.112114.xyz/logo/cctv15.png" group-title="央视",CCTV-15高清
+#EXTINF:-1 ,CCTV-15高清
 http://10.0.0.1:15555/yspios.php?id=cctv15
-
-#EXTINF:-1 tvg-name="CCTV-16高清" tvg-logo="https://epg.112114.xyz/logo/cctv16.png" group-title="央视",CCTV-16高清
+#EXTINF:-1 ,CCTV-16高清
 http://10.0.0.1:15555/yspios.php?id=cctv16
-
-#EXTINF:-1 tvg-name="CCTV-16(4K)" tvg-logo="https://epg.112114.xyz/logo/cctv164k.png" group-title="央视",CCTV-16(4K)
+#EXTINF:-1 ,CCTV-16(4K)
 http://10.0.0.1:15555/yspios.php?id=cctv164k
-
-#EXTINF:-1 tvg-name="CCTV-17高清" tvg-logo="https://epg.112114.xyz/logo/cctv17.png" group-title="央视",CCTV-17高清
+#EXTINF:-1 ,CCTV-17高清
 http://10.0.0.1:15555/yspios.php?id=cctv17
-
-#EXTINF:-1 tvg-name="CCTV-4K" tvg-logo="https://epg.112114.xyz/logo/cctv4k.png" group-title="央视",CCTV-4K
+#EXTINF:-1 ,CCTV-4K
 http://10.0.0.1:15555/yspios.php?id=cctv4k
-
-#EXTINF:-1 tvg-name="CCTV-8K" tvg-logo="https://epg.112114.xyz/logo/cctv8k.png" group-title="央视",CCTV-8K
+#EXTINF:-1 ,CCTV-8K
 http://10.0.0.1:15555/yspios.php?id=cctv8k
-
-#EXTINF:-1 tvg-name="CGTN" tvg-logo="https://epg.112114.xyz/logo/cgtn.png" group-title="央视",CGTN
+#EXTINF:-1 ,CGTN
 http://10.0.0.1:15555/yspios.php?id=cgtn
-
-#EXTINF:-1 tvg-name="CGTN法语频道" tvg-logo="https://epg.112114.xyz/logo/cgtnfy.png" group-title="央视",CGTN法语频道
+#EXTINF:-1 ,CGTN法语频道
 http://10.0.0.1:15555/yspios.php?id=cgtnfy
-
-#EXTINF:-1 tvg-name="CGTN俄语频道" tvg-logo="https://epg.112114.xyz/logo/cgtney.png" group-title="央视",CGTN俄语频道
+#EXTINF:-1 ,CGTN俄语频道
 http://10.0.0.1:15555/yspios.php?id=cgtney
-
-#EXTINF:-1 tvg-name="CGTN阿拉伯语频道" tvg-logo="https://epg.112114.xyz/logo/cgtnalby.png" group-title="央视",CGTN阿拉伯语频道
+#EXTINF:-1 ,CGTN阿拉伯语频道
 http://10.0.0.1:15555/yspios.php?id=cgtnalby
-
-#EXTINF:-1 tvg-name="CGTN西班牙语频道" tvg-logo="https://epg.112114.xyz/logo/cgtnxby.png" group-title="央视",CGTN西班牙语频道
+#EXTINF:-1 ,CGTN西班牙语频道
 http://10.0.0.1:15555/yspios.php?id=cgtnxby
-
-#EXTINF:-1 tvg-name="CGTN外语纪录频道" tvg-logo="https://epg.112114.xyz/logo/cgtnwyjl.png" group-title="央视",CGTN外语纪录频道
+#EXTINF:-1 ,CGTN外语纪录频道
 http://10.0.0.1:15555/yspios.php?id=cgtnwyjl
-
-#EXTINF:-1 tvg-name="CCTV风云剧场频道" tvg-logo="https://epg.112114.xyz/logo/cctvfyjc.png" group-title="央视付费",CCTV风云剧场频道
+#EXTINF:-1 ,CCTV风云剧场频道
 http://10.0.0.1:15555/yspios.php?id=cctvfyjc
-
-#EXTINF:-1 tvg-name="CCTV第一剧场频道" tvg-logo="https://epg.112114.xyz/logo/cctvdyjc.png" group-title="央视付费",CCTV第一剧场频道
+#EXTINF:-1 ,CCTV第一剧场频道
 http://10.0.0.1:15555/yspios.php?id=cctvdyjc
-
-#EXTINF:-1 tvg-name="CCTV怀旧剧场频道" tvg-logo="https://epg.112114.xyz/logo/cctvhjjc.png" group-title="央视付费",CCTV怀旧剧场频道
+#EXTINF:-1 ,CCTV怀旧剧场频道
 http://10.0.0.1:15555/yspios.php?id=cctvhjjc
-
-#EXTINF:-1 tvg-name="CCTV世界地理频道" tvg-logo="https://epg.112114.xyz/logo/cctvsjdl.png" group-title="央视付费",CCTV世界地理频道
+#EXTINF:-1 ,CCTV世界地理频道
 http://10.0.0.1:15555/yspios.php?id=cctvsjdl
-
-#EXTINF:-1 tvg-name="CCTV风云音乐频道" tvg-logo="https://epg.112114.xyz/logo/cctvfyyy.png" group-title="央视付费",CCTV风云音乐频道
+#EXTINF:-1 ,CCTV风云音乐频道
 http://10.0.0.1:15555/yspios.php?id=cctvfyyy
-
-#EXTINF:-1 tvg-name="CCTV兵器科技频道" tvg-logo="https://epg.112114.xyz/logo/cctvbqkj.png" group-title="央视付费",CCTV兵器科技频道
+#EXTINF:-1 ,CCTV兵器科技频道
 http://10.0.0.1:15555/yspios.php?id=cctvbqkj
-
-#EXTINF:-1 tvg-name="CCTV风云足球频道" tvg-logo="https://epg.112114.xyz/logo/cctvfyzq.png" group-title="央视付费",CCTV风云足球频道
+#EXTINF:-1 ,CCTV风云足球频道
 http://10.0.0.1:15555/yspios.php?id=cctvfyzq
-
-#EXTINF:-1 tvg-name="CCTV高尔夫·网球频道" tvg-logo="https://epg.112114.xyz/logo/cctvgeqwq.png" group-title="央视付费",CCTV高尔夫·网球频道
+#EXTINF:-1 ,CCTV高尔夫·网球频道
 http://10.0.0.1:15555/yspios.php?id=cctvgeqwq
-
-#EXTINF:-1 tvg-name="CCTV女性时尚频道" tvg-logo="https://epg.112114.xyz/logo/cctvnxss.png" group-title="央视付费",CCTV女性时尚频道
+#EXTINF:-1 ,CCTV女性时尚频道
 http://10.0.0.1:15555/yspios.php?id=cctvnxss
-
-#EXTINF:-1 tvg-name="CCTV央视文化精品频道" tvg-logo="https://epg.112114.xyz/logo/cctvyswhjp.png" group-title="央视付费",CCTV央视文化精品频道
+#EXTINF:-1 ,CCTV央视文化精品频道
 http://10.0.0.1:15555/yspios.php?id=cctvyswhjp
-
-#EXTINF:-1 tvg-name="CCTV央视台球频道" tvg-logo="https://epg.112114.xyz/logo/cctvystq.png" group-title="央视付费",CCTV央视台球频道
+#EXTINF:-1 ,CCTV央视台球频道
 http://10.0.0.1:15555/yspios.php?id=cctvystq
-
-#EXTINF:-1 tvg-name="CCTV电视指南频道" tvg-logo="https://epg.112114.xyz/logo/cctvdszn.png" group-title="央视付费",CCTV电视指南频道
+#EXTINF:-1 ,CCTV电视指南频道
 http://10.0.0.1:15555/yspios.php?id=cctvdszn
-
-#EXTINF:-1 tvg-name="CCTV卫生健康频道" tvg-logo="https://epg.112114.xyz/logo/cctvwsjk.png" group-title="央视付费",CCTV卫生健康频道
+#EXTINF:-1 ,CCTV卫生健康频道
 http://10.0.0.1:15555/yspios.php?id=cctvwsjk
-
-#EXTINF:-1 tvg-name="北京卫视" tvg-logo="https://epg.112114.xyz/logo/bjws.png" group-title="卫视",北京卫视
+#EXTINF:-1 ,北京卫视
 http://10.0.0.1:15555/yspios.php?id=bjws
-
-#EXTINF:-1 tvg-name="江苏卫视" tvg-logo="https://epg.112114.xyz/logo/jsws.png" group-title="卫视",江苏卫视
+#EXTINF:-1 ,江苏卫视
 http://10.0.0.1:15555/yspios.php?id=jsws
-
-#EXTINF:-1 tvg-name="东方卫视" tvg-logo="https://epg.112114.xyz/logo/dfws.png" group-title="卫视",东方卫视
+#EXTINF:-1 ,东方卫视
 http://10.0.0.1:15555/yspios.php?id=dfws
-
-#EXTINF:-1 tvg-name="浙江卫视" tvg-logo="https://epg.112114.xyz/logo/zjws.png" group-title="卫视",浙江卫视
+#EXTINF:-1 ,浙江卫视
 http://10.0.0.1:15555/yspios.php?id=zjws
-
-#EXTINF:-1 tvg-name="湖南卫视" tvg-logo="https://epg.112114.xyz/logo/hnws.png" group-title="卫视",湖南卫视
+#EXTINF:-1 ,湖南卫视
 http://10.0.0.1:15555/yspios.php?id=hnws
-
-#EXTINF:-1 tvg-name="湖北卫视" tvg-logo="https://epg.112114.xyz/logo/hbws.png" group-title="卫视",湖北卫视
+#EXTINF:-1 ,湖北卫视
 http://10.0.0.1:15555/yspios.php?id=hbws
-
-#EXTINF:-1 tvg-name="广东卫视" tvg-logo="https://epg.112114.xyz/logo/gdws.png" group-title="卫视",广东卫视
+#EXTINF:-1 ,广东卫视
 http://10.0.0.1:15555/yspios.php?id=gdws
-
-#EXTINF:-1 tvg-name="广西卫视" tvg-logo="https://epg.112114.xyz/logo/gxws.png" group-title="卫视",广西卫视
+#EXTINF:-1 ,广西卫视
 http://10.0.0.1:15555/yspios.php?id=gxws
-
-#EXTINF:-1 tvg-name="黑龙江卫视" tvg-logo="https://epg.112114.xyz/logo/hljws.png" group-title="卫视",黑龙江卫视
+#EXTINF:-1 ,黑龙江卫视
 http://10.0.0.1:15555/yspios.php?id=hljws
-
-#EXTINF:-1 tvg-name="海南卫视" tvg-logo="https://epg.112114.xyz/logo/hnws2.png" group-title="卫视",海南卫视
+#EXTINF:-1 ,海南卫视
 http://10.0.0.1:15555/yspios.php?id=hnws2
-
-#EXTINF:-1 tvg-name="重庆卫视" tvg-logo="https://epg.112114.xyz/logo/cqws.png" group-title="卫视",重庆卫视
+#EXTINF:-1 ,重庆卫视
 http://10.0.0.1:15555/yspios.php?id=cqws
-
-#EXTINF:-1 tvg-name="深圳卫视" tvg-logo="https://epg.112114.xyz/logo/szws.png" group-title="卫视",深圳卫视
+#EXTINF:-1 ,深圳卫视
 http://10.0.0.1:15555/yspios.php?id=szws
-
-#EXTINF:-1 tvg-name="四川卫视" tvg-logo="https://epg.112114.xyz/logo/scws.png" group-title="卫视",四川卫视
+#EXTINF:-1 ,四川卫视
 http://10.0.0.1:15555/yspios.php?id=scws
-
-#EXTINF:-1 tvg-name="河南卫视" tvg-logo="https://epg.112114.xyz/logo/henanws.png" group-title="卫视",河南卫视
+#EXTINF:-1 ,河南卫视
 http://10.0.0.1:15555/yspios.php?id=henanws
-
-#EXTINF:-1 tvg-name="福建东南卫视" tvg-logo="https://epg.112114.xyz/logo/fjdnhz.png" group-title="卫视",福建东南卫视
+#EXTINF:-1 ,福建东南卫视
 http://10.0.0.1:15555/yspios.php?id=fjdnhz
-
-#EXTINF:-1 tvg-name="贵州卫视" tvg-logo="https://epg.112114.xyz/logo/gzhws.png" group-title="卫视",贵州卫视
+#EXTINF:-1 ,贵州卫视
 http://10.0.0.1:15555/yspios.php?id=gzhws
-
-#EXTINF:-1 tvg-name="江西卫视" tvg-logo="https://epg.112114.xyz/logo/jxws.png" group-title="卫视",江西卫视
+#EXTINF:-1 ,江西卫视
 http://10.0.0.1:15555/yspios.php?id=jxws
-
-#EXTINF:-1 tvg-name="辽宁卫视" tvg-logo="https://epg.112114.xyz/logo/lnws.png" group-title="卫视",辽宁卫视
+#EXTINF:-1 ,辽宁卫视
 http://10.0.0.1:15555/yspios.php?id=lnws
-
-#EXTINF:-1 tvg-name="安徽卫视" tvg-logo="https://epg.112114.xyz/logo/ahws.png" group-title="卫视",安徽卫视
+#EXTINF:-1 ,安徽卫视
 http://10.0.0.1:15555/yspios.php?id=ahws
-
-#EXTINF:-1 tvg-name="河北卫视" tvg-logo="https://epg.112114.xyz/logo/hbws2.png" group-title="卫视",河北卫视
+#EXTINF:-1 ,河北卫视
 http://10.0.0.1:15555/yspios.php?id=hbws2
-
-#EXTINF:-1 tvg-name="山东卫视" tvg-logo="https://epg.112114.xyz/logo/sdws.png" group-title="卫视",山东卫视
+#EXTINF:-1 ,山东卫视
 http://10.0.0.1:15555/yspios.php?id=sdws
-
-#EXTINF:-1 tvg-name="天津卫视" tvg-logo="https://epg.112114.xyz/logo/tjws.png" group-title="卫视",天津卫视
+#EXTINF:-1 ,天津卫视
 http://10.0.0.1:15555/yspios.php?id=tjws
-
-#EXTINF:-1 tvg-name="吉林卫视" tvg-logo="https://epg.112114.xyz/logo/jlws.png" group-title="卫视",吉林卫视
+#EXTINF:-1 ,吉林卫视
 http://10.0.0.1:15555/yspios.php?id=jlws
-
-#EXTINF:-1 tvg-name="陕西卫视" tvg-logo="https://epg.112114.xyz/logo/shanxiws.png" group-title="卫视",陕西卫视
+#EXTINF:-1 ,陕西卫视
 http://10.0.0.1:15555/yspios.php?id=shanxiws
-
-#EXTINF:-1 tvg-name="宁夏卫视" tvg-logo="https://epg.112114.xyz/logo/nxws.png" group-title="卫视",宁夏卫视
+#EXTINF:-1 ,宁夏卫视
 http://10.0.0.1:15555/yspios.php?id=nxws
-
-#EXTINF:-1 tvg-name="内蒙古卫视" tvg-logo="https://epg.112114.xyz/logo/nmgws.png" group-title="卫视",内蒙古卫视
+#EXTINF:-1 ,内蒙古卫视
 http://10.0.0.1:15555/yspios.php?id=nmgws
-
-#EXTINF:-1 tvg-name="云南卫视" tvg-logo="https://epg.112114.xyz/logo/ynws.png" group-title="卫视",云南卫视
+#EXTINF:-1 ,云南卫视
 http://10.0.0.1:15555/yspios.php?id=ynws
-
-#EXTINF:-1 tvg-name="山西卫视" tvg-logo="https://epg.112114.xyz/logo/shanxiws2.png" group-title="卫视",山西卫视
+#EXTINF:-1 ,山西卫视
 http://10.0.0.1:15555/yspios.php?id=shanxiws2
-
-#EXTINF:-1 tvg-name="青海卫视" tvg-logo="https://epg.112114.xyz/logo/qhws.png" group-title="卫视",青海卫视
+#EXTINF:-1 ,青海卫视
 http://10.0.0.1:15555/yspios.php?id=qhws
-
-#EXTINF:-1 tvg-name="西藏卫视" tvg-logo="https://epg.112114.xyz/logo/xzws.png" group-title="卫视",西藏卫视
+#EXTINF:-1 ,西藏卫视
 http://10.0.0.1:15555/yspios.php?id=xzws
-
-#EXTINF:-1 tvg-name="中国教育电视台1频道" tvg-logo="https://epg.112114.xyz/logo/cetv1.png" group-title="教育",中国教育电视台1频道
+#EXTINF:-1 ,中国教育电视台1频道
 http://10.0.0.1:15555/yspios.php?id=cetv1
-
-#EXTINF:-1 tvg-name="国学频道" tvg-logo="https://epg.112114.xyz/logo/gxpd.png" group-title="教育",国学频道
+#EXTINF:-1 ,国学频道
 http://10.0.0.1:15555/yspios.php?id=gxpd
-
-#EXTINF:-1 tvg-name="新疆卫视" tvg-logo="https://epg.112114.xyz/logo/xjws.png" group-title="卫视",新疆卫视
+#EXTINF:-1 ,新疆卫视
 http://10.0.0.1:15555/yspios.php?id=xjws
