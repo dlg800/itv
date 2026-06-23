@@ -1,147 +1,147 @@
 #EXTM3U
 #EXTINF:-1 ,CCTV-1高清
-http://10.0.0.1:15555/yspios.php?id=cctv1
+http://10.0.0.1:6789/yspios.php?id=cctv1
 #EXTINF:-1 ,CCTV-2高清
-http://10.0.0.1:15555/yspios.php?id=cctv2
+http://10.0.0.1:6789/yspios.php?id=cctv2
 #EXTINF:-1 ,CCTV-3高清
-http://10.0.0.1:15555/yspios.php?id=cctv3
+http://10.0.0.1:6789/yspios.php?id=cctv3
 #EXTINF:-1 ,CCTV-4高清
-http://10.0.0.1:15555/yspios.php?id=cctv4
+http://10.0.0.1:6789/yspios.php?id=cctv4
 #EXTINF:-1 ,CCTV-5高清
-http://10.0.0.1:15555/yspios.php?id=cctv5
+http://10.0.0.1:6789/yspios.php?id=cctv5
 #EXTINF:-1 ,CCTV-5+高清
-http://10.0.0.1:15555/yspios.php?id=cctv5p
+http://10.0.0.1:6789/yspios.php?id=cctv5p
 #EXTINF:-1 ,CCTV-6高清
-http://10.0.0.1:15555/yspios.php?id=cctv6
+http://10.0.0.1:6789/yspios.php?id=cctv6
 #EXTINF:-1 ,CCTV-7高清
-http://10.0.0.1:15555/yspios.php?id=cctv7
+http://10.0.0.1:6789/yspios.php?id=cctv7
 #EXTINF:-1 ,CCTV-8高清
-http://10.0.0.1:15555/yspios.php?id=cctv8
+http://10.0.0.1:6789/yspios.php?id=cctv8
 #EXTINF:-1 ,CCTV-9高清
-http://10.0.0.1:15555/yspios.php?id=cctv9
+http://10.0.0.1:6789/yspios.php?id=cctv9
 #EXTINF:-1 ,CCTV-10高清
-http://10.0.0.1:15555/yspios.php?id=cctv10
+http://10.0.0.1:6789/yspios.php?id=cctv10
 #EXTINF:-1 ,CCTV-11高清
-http://10.0.0.1:15555/yspios.php?id=cctv11
+http://10.0.0.1:6789/yspios.php?id=cctv11
 #EXTINF:-1 ,CCTV-12高清
-http://10.0.0.1:15555/yspios.php?id=cctv12
+http://10.0.0.1:6789/yspios.php?id=cctv12
 #EXTINF:-1 ,CCTV-13高清
-http://10.0.0.1:15555/yspios.php?id=cctv13
+http://10.0.0.1:6789/yspios.php?id=cctv13
 #EXTINF:-1 ,CCTV-14高清
-http://10.0.0.1:15555/yspios.php?id=cctv14
+http://10.0.0.1:6789/yspios.php?id=cctv14
 #EXTINF:-1 ,CCTV-15高清
-http://10.0.0.1:15555/yspios.php?id=cctv15
+http://10.0.0.1:6789/yspios.php?id=cctv15
 #EXTINF:-1 ,CCTV-16高清
-http://10.0.0.1:15555/yspios.php?id=cctv16
+http://10.0.0.1:6789/yspios.php?id=cctv16
 #EXTINF:-1 ,CCTV-16(4K)
-http://10.0.0.1:15555/yspios.php?id=cctv164k
+http://10.0.0.1:6789/yspios.php?id=cctv164k
 #EXTINF:-1 ,CCTV-17高清
-http://10.0.0.1:15555/yspios.php?id=cctv17
+http://10.0.0.1:6789/yspios.php?id=cctv17
 #EXTINF:-1 ,CCTV-4K
-http://10.0.0.1:15555/yspios.php?id=cctv4k
+http://10.0.0.1:6789/yspios.php?id=cctv4k
 #EXTINF:-1 ,CCTV-8K
-http://10.0.0.1:15555/yspios.php?id=cctv8k
+http://10.0.0.1:6789/yspios.php?id=cctv8k
 #EXTINF:-1 ,CGTN
-http://10.0.0.1:15555/yspios.php?id=cgtn
+http://10.0.0.1:6789/yspios.php?id=cgtn
 #EXTINF:-1 ,CGTN法语频道
-http://10.0.0.1:15555/yspios.php?id=cgtnfy
+http://10.0.0.1:6789/yspios.php?id=cgtnfy
 #EXTINF:-1 ,CGTN俄语频道
-http://10.0.0.1:15555/yspios.php?id=cgtney
+http://10.0.0.1:6789/yspios.php?id=cgtney
 #EXTINF:-1 ,CGTN阿拉伯语频道
-http://10.0.0.1:15555/yspios.php?id=cgtnalby
+http://10.0.0.1:6789/yspios.php?id=cgtnalby
 #EXTINF:-1 ,CGTN西班牙语频道
-http://10.0.0.1:15555/yspios.php?id=cgtnxby
+http://10.0.0.1:6789/yspios.php?id=cgtnxby
 #EXTINF:-1 ,CGTN外语纪录频道
-http://10.0.0.1:15555/yspios.php?id=cgtnwyjl
+http://10.0.0.1:6789/yspios.php?id=cgtnwyjl
 #EXTINF:-1 ,CCTV风云剧场频道
-http://10.0.0.1:15555/yspios.php?id=cctvfyjc
+http://10.0.0.1:6789/yspios.php?id=cctvfyjc
 #EXTINF:-1 ,CCTV第一剧场频道
-http://10.0.0.1:15555/yspios.php?id=cctvdyjc
+http://10.0.0.1:6789/yspios.php?id=cctvdyjc
 #EXTINF:-1 ,CCTV怀旧剧场频道
-http://10.0.0.1:15555/yspios.php?id=cctvhjjc
+http://10.0.0.1:6789/yspios.php?id=cctvhjjc
 #EXTINF:-1 ,CCTV世界地理频道
-http://10.0.0.1:15555/yspios.php?id=cctvsjdl
+http://10.0.0.1:6789/yspios.php?id=cctvsjdl
 #EXTINF:-1 ,CCTV风云音乐频道
-http://10.0.0.1:15555/yspios.php?id=cctvfyyy
+http://10.0.0.1:6789/yspios.php?id=cctvfyyy
 #EXTINF:-1 ,CCTV兵器科技频道
-http://10.0.0.1:15555/yspios.php?id=cctvbqkj
+http://10.0.0.1:6789/yspios.php?id=cctvbqkj
 #EXTINF:-1 ,CCTV风云足球频道
-http://10.0.0.1:15555/yspios.php?id=cctvfyzq
+http://10.0.0.1:6789/yspios.php?id=cctvfyzq
 #EXTINF:-1 ,CCTV高尔夫·网球频道
-http://10.0.0.1:15555/yspios.php?id=cctvgeqwq
+http://10.0.0.1:6789/yspios.php?id=cctvgeqwq
 #EXTINF:-1 ,CCTV女性时尚频道
-http://10.0.0.1:15555/yspios.php?id=cctvnxss
+http://10.0.0.1:6789/yspios.php?id=cctvnxss
 #EXTINF:-1 ,CCTV央视文化精品频道
-http://10.0.0.1:15555/yspios.php?id=cctvyswhjp
+http://10.0.0.1:6789/yspios.php?id=cctvyswhjp
 #EXTINF:-1 ,CCTV央视台球频道
-http://10.0.0.1:15555/yspios.php?id=cctvystq
+http://10.0.0.1:6789/yspios.php?id=cctvystq
 #EXTINF:-1 ,CCTV电视指南频道
-http://10.0.0.1:15555/yspios.php?id=cctvdszn
+http://10.0.0.1:6789/yspios.php?id=cctvdszn
 #EXTINF:-1 ,CCTV卫生健康频道
-http://10.0.0.1:15555/yspios.php?id=cctvwsjk
+http://10.0.0.1:6789/yspios.php?id=cctvwsjk
 #EXTINF:-1 ,北京卫视
-http://10.0.0.1:15555/yspios.php?id=bjws
+http://10.0.0.1:6789/yspios.php?id=bjws
 #EXTINF:-1 ,江苏卫视
-http://10.0.0.1:15555/yspios.php?id=jsws
+http://10.0.0.1:6789/yspios.php?id=jsws
 #EXTINF:-1 ,东方卫视
-http://10.0.0.1:15555/yspios.php?id=dfws
+http://10.0.0.1:6789/yspios.php?id=dfws
 #EXTINF:-1 ,浙江卫视
-http://10.0.0.1:15555/yspios.php?id=zjws
+http://10.0.0.1:6789/yspios.php?id=zjws
 #EXTINF:-1 ,湖南卫视
-http://10.0.0.1:15555/yspios.php?id=hnws
+http://10.0.0.1:6789/yspios.php?id=hnws
 #EXTINF:-1 ,湖北卫视
-http://10.0.0.1:15555/yspios.php?id=hbws
+http://10.0.0.1:6789/yspios.php?id=hbws
 #EXTINF:-1 ,广东卫视
-http://10.0.0.1:15555/yspios.php?id=gdws
+http://10.0.0.1:6789/yspios.php?id=gdws
 #EXTINF:-1 ,广西卫视
-http://10.0.0.1:15555/yspios.php?id=gxws
+http://10.0.0.1:6789/yspios.php?id=gxws
 #EXTINF:-1 ,黑龙江卫视
-http://10.0.0.1:15555/yspios.php?id=hljws
+http://10.0.0.1:6789/yspios.php?id=hljws
 #EXTINF:-1 ,海南卫视
-http://10.0.0.1:15555/yspios.php?id=hnws2
+http://10.0.0.1:6789/yspios.php?id=hnws2
 #EXTINF:-1 ,重庆卫视
-http://10.0.0.1:15555/yspios.php?id=cqws
+http://10.0.0.1:6789/yspios.php?id=cqws
 #EXTINF:-1 ,深圳卫视
-http://10.0.0.1:15555/yspios.php?id=szws
+http://10.0.0.1:6789/yspios.php?id=szws
 #EXTINF:-1 ,四川卫视
-http://10.0.0.1:15555/yspios.php?id=scws
+http://10.0.0.1:6789/yspios.php?id=scws
 #EXTINF:-1 ,河南卫视
-http://10.0.0.1:15555/yspios.php?id=henanws
+http://10.0.0.1:6789/yspios.php?id=henanws
 #EXTINF:-1 ,福建东南卫视
-http://10.0.0.1:15555/yspios.php?id=fjdnhz
+http://10.0.0.1:6789/yspios.php?id=fjdnhz
 #EXTINF:-1 ,贵州卫视
-http://10.0.0.1:15555/yspios.php?id=gzhws
+http://10.0.0.1:6789/yspios.php?id=gzhws
 #EXTINF:-1 ,江西卫视
-http://10.0.0.1:15555/yspios.php?id=jxws
+http://10.0.0.1:6789/yspios.php?id=jxws
 #EXTINF:-1 ,辽宁卫视
-http://10.0.0.1:15555/yspios.php?id=lnws
+http://10.0.0.1:6789/yspios.php?id=lnws
 #EXTINF:-1 ,安徽卫视
-http://10.0.0.1:15555/yspios.php?id=ahws
+http://10.0.0.1:6789/yspios.php?id=ahws
 #EXTINF:-1 ,河北卫视
-http://10.0.0.1:15555/yspios.php?id=hbws2
+http://10.0.0.1:6789/yspios.php?id=hbws2
 #EXTINF:-1 ,山东卫视
-http://10.0.0.1:15555/yspios.php?id=sdws
+http://10.0.0.1:6789/yspios.php?id=sdws
 #EXTINF:-1 ,天津卫视
-http://10.0.0.1:15555/yspios.php?id=tjws
+http://10.0.0.1:6789/yspios.php?id=tjws
 #EXTINF:-1 ,吉林卫视
-http://10.0.0.1:15555/yspios.php?id=jlws
+http://10.0.0.1:6789/yspios.php?id=jlws
 #EXTINF:-1 ,陕西卫视
-http://10.0.0.1:15555/yspios.php?id=shanxiws
+http://10.0.0.1:6789/yspios.php?id=shanxiws
 #EXTINF:-1 ,宁夏卫视
-http://10.0.0.1:15555/yspios.php?id=nxws
+http://10.0.0.1:6789/yspios.php?id=nxws
 #EXTINF:-1 ,内蒙古卫视
-http://10.0.0.1:15555/yspios.php?id=nmgws
+http://10.0.0.1:6789/yspios.php?id=nmgws
 #EXTINF:-1 ,云南卫视
-http://10.0.0.1:15555/yspios.php?id=ynws
+http://10.0.0.1:6789/yspios.php?id=ynws
 #EXTINF:-1 ,山西卫视
-http://10.0.0.1:15555/yspios.php?id=shanxiws2
+http://10.0.0.1:6789/yspios.php?id=shanxiws2
 #EXTINF:-1 ,青海卫视
-http://10.0.0.1:15555/yspios.php?id=qhws
+http://10.0.0.1:6789/yspios.php?id=qhws
 #EXTINF:-1 ,西藏卫视
-http://10.0.0.1:15555/yspios.php?id=xzws
+http://10.0.0.1:6789/yspios.php?id=xzws
 #EXTINF:-1 ,中国教育电视台1频道
-http://10.0.0.1:15555/yspios.php?id=cetv1
+http://10.0.0.1:6789/yspios.php?id=cetv1
 #EXTINF:-1 ,国学频道
-http://10.0.0.1:15555/yspios.php?id=gxpd
+http://10.0.0.1:6789/yspios.php?id=gxpd
 #EXTINF:-1 ,新疆卫视
-http://10.0.0.1:15555/yspios.php?id=xjws
+http://10.0.0.1:6789/yspios.php?id=xjws
