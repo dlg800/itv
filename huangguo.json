@@ -1,0 +1,13 @@
+{
+  "sites": [
+    {
+      "key": "HuangGuo",
+      "name": "黄果短剧",
+      "type": 3,
+      "api": "file:///storage/emulated/0/TV/CustomCsp/huangguo.py",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    }
+  ]
+}
