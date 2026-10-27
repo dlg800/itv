@@ -8,7 +8,7 @@
       "key": "18av",
       "name": "18AV主站",
       "type": 3,
-      "api": "csp_18av",
+      "api": "./lib/18av.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
