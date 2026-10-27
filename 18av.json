@@ -1,25 +1,14 @@
 {
-  "name": "18AV主站",
-  "spider": "https://raw.githubusercontent.com/dlg800/itv/refs/heads/main/18av.py",
-  "wallpaper": "",
-  "logo": "",
   "sites": [
     {
       "key": "18av",
       "name": "18AV主站",
       "type": 3,
-      "api": "./lib/18av.py",
+      "api": "https://raw.githubusercontent.com/dlg800/itv/refs/heads/main/18av.py",
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "changeable": 0,
-      "timeout": 30,
-      "ext": ""
+      "timeout": 30
     }
-  ],
-  "parses": [],
-  "flags": [],
-  "ijk": [],
-  "doh": [],
-  "proxy": []
+  ]
 }
