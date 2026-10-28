@@ -2,7 +2,7 @@
   "sites": [
     {
       "key": "18av",
-      "name": "18AV主站",
+      "name": "测试频道",
       "type": 3,
       "api": "https://raw.githubusercontent.com/dlg800/itv/refs/heads/main/18av.py",
       "searchable": 1,
